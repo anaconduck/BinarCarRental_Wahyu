@@ -31,17 +31,6 @@ nav.navbar {
     position: relative;
 }
 
-.bg-car::before {
-    content: "";
-    position: absolute;
-    background-color: #0D28A6;
-    bottom: 0;
-    right: 0;
-    height: 50%;
-    width: 50%;
-    border-radius: 60px 0 0 0;
-}
-
 .tagline h2{
     margin: 24px 0;
     text-transform: capitalize;
